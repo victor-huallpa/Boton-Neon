@@ -10,7 +10,7 @@ body {
 }
 :root{
     --bg-color: #1c2833;
-    --primary-color: #c6021f;
+    --primary-color: #05ffd0;
 }
  .nav .buttom {
     color: var(--primary-color);
